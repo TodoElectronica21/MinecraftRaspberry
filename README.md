@@ -4,3 +4,4 @@
 - Para utilizar las librerias descomprimirlas y guardarlas en el mismo directorio donde vayáis a ejecutar el código
 
 ![alt text](https://github.com/TodoElectronica21/MinecraftRaspberry/blob/master/Materiales%20y%20pines%20GPIO.png)
+![alt text](https://github.com/TodoElectronica21/MinecraftRaspberry/blob/master/Pines%20GPIO%20Display.png)
