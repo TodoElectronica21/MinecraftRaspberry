@@ -1,3 +1,4 @@
 # MinecraftRaspberry
-Examples to learn to program
-- TodoElectronica21 explain how to program Python in Raspberry PI Minecraft version.
+
+- TodoElectronica21 explica cómo programar un detonador de bomba real que actua sobre el juego de minecraft
+- Para utilizar las librerias descomprimirlas y guardarlas en el mismo directorio donde vayáis a ejecutar el código
