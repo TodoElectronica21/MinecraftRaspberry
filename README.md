@@ -1,5 +1,7 @@
 # MinecraftRaspberry
 
+Información de montaje y programación en este vídeo: https://youtu.be/8GMxpSg-PFc
+
 - TodoElectronica21 explica cómo programar un detonador de bomba real que actua sobre el juego de minecraft
 - Para utilizar las librerias descomprimirlas y guardarlas en el mismo directorio donde vayáis a ejecutar el código
 
